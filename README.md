@@ -1,5 +1,5 @@
 # ResolutionJS
-Sometimes you don't want to show your website to clients in a specified resolutions. **ResolutionJS** is here to make it simpler than you think.
+Sometimes you don't want to show your website to clients in a specified resolutions. **ResolutionJS** is here to make it simpler than you think, It has been written with *JavaScript* and doesn't use any library or etc.
 
 # Add Project
 Just link **ResolutionJS** to your project, For example :
