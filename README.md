@@ -17,7 +17,7 @@ Then, You should initialize properties, Just copy the code below and paste it af
     textColor: '#F5F5F5',
     zIndex: 10000,
     fontSize: '1.5rem',
-    fontFamily: 'IRANSans',
+    fontFamily: 'TimesNewRoman',
     displayMessage: 'Lorem Ipsum'
   });
 </script>
