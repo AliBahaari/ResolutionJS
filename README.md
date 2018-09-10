@@ -1,12 +1,12 @@
 # ResolutionJS
 Sometimes you don't want to show your website to clients in a specified resolutions. **ResolutionJS** is here to make it simpler than you think, It has been written with *JavaScript* and doesn't use any library or etc.
 
-# Add Project
+## Add Project
 Just link **ResolutionJS** to your project, For example :
 ```
 <script src="Resolution.js"></script>
 ```
-# Initializing
+## Initializing
 Then, You should initialize properties, Just copy the code below and paste it after the code above.
 ```
 Resolution({
@@ -22,7 +22,7 @@ Resolution({
 ```
 Note : All the properties above should be filled.
 
-# Babel
+## Babel
 In minified version that actually uses for production, I have used **Babel** for **ResolutionJS** to feel free for using it in old browsers.
 
 Hope to enjoy it ...
