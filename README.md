@@ -20,7 +20,7 @@ Resolution({
   displayMessage: 'Lorem Ipsum'
 });
 ```
-Note : All the properties should be filled.
+Note : All the properties above should be filled.
 
 # Babel
 In minified version that actually uses for production, I have used **Babel** for **ResolutionJS** to feel free for using it in old browsers.
