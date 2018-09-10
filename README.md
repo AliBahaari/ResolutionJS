@@ -9,20 +9,22 @@ Just link **ResolutionJS** to your project, For example :
 ## Initializing
 Then, You should initialize properties, Just copy the code below and paste it after the code above.
 ```
-Resolution({
-  clientWidth: 500,
-  clientHeight: 400,
-  backGround: '#555',
-  textColor: '#F5F5F5',
-  zIndex: 10000,
-  fontSize: '1.5rem',
-  fontFamily: 'IRANSans',
-  displayMessage: 'Lorem Ipsum'
-});
+<script>
+  Resolution({
+    clientWidth: 500,
+    clientHeight: 400,
+    backGround: '#555',
+    textColor: '#F5F5F5',
+    zIndex: 10000,
+    fontSize: '1.5rem',
+    fontFamily: 'IRANSans',
+    displayMessage: 'Lorem Ipsum'
+  });
+</script>
 ```
 Note : All the properties above should be filled.
 
 ## Babel
-In minified version that actually uses for production, I have used **Babel** for **ResolutionJS** to feel free for using it in old browsers.
+In minified version that actually uses for production, I have used **Babel** for **ResolutionJS** to feel free for using in old browsers.
 
 Hope to enjoy it ...
