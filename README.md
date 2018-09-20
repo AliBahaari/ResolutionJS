@@ -6,6 +6,7 @@ Just link ResolutionJS to your project, For example :
 ```
 <script src="Resolution.js"></script>
 ```
+
 ## Initializing
 Then, You should initialize properties, Just copy the code below and paste it after the code above.
 ```
@@ -25,6 +26,4 @@ Then, You should initialize properties, Just copy the code below and paste it af
 Note : All the properties above should be filled.
 
 ## Babel
-In minified version that actually uses for production, I have used **Babel** for ResolutionJS to feel free for using in old browsers.
-
-Hope to enjoy it ...
+In minified version that actually is being used for production, It uses **Babel** for ResolutionJS to feel free for using in old browsers.
