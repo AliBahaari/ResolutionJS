@@ -12,18 +12,18 @@ Then, You should initialize properties, Just copy the code below and paste it af
 ```
 <script>
   Resolution({
-    clientWidth: 500,
-    clientHeight: 400,
-    backGround: '#555',
-    textColor: '#F5F5F5',
-    zIndex: 10000,
-    fontSize: '1.5rem',
-    fontFamily: 'TimesNewRoman',
-    displayMessage: 'Lorem Ipsum'
+    clientWidth: 500, // The maximum width of the window
+    clientHeight: 400, // The maximum height of the window
+    backGround: '#555', // The layer `background` property
+    textColor: '#F5F5F5', // The layer text `color` property
+    zIndex: 10000, // The layer `z-index` property
+    fontSize: '1.5rem', // The layer text `font-size` property
+    fontFamily: 'TimesNewRoman', // The layer text `font-family` property
+    displayMessage: 'Lorem Ipsum' // A text for displaying
   });
 </script>
 ```
-Note : All the properties above should be filled.
+Note : All the properties above should be filled; `backGround`, `textColor`, `fontSize`, `fontFamily`, `displayMessage` should be ***String*** and `clientWidth`, `clientHeight` and `zIndex` should be ***Integer***.
 
 ## Babel
 In minified version that actually is being used for production, It uses **Babel** for ResolutionJS to feel free for using in old browsers.
