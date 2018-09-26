@@ -4,7 +4,7 @@ Sometimes you don't want to show your website to clients in a specified resoluti
 ## Add Project
 Just link ResolutionJS to your project, For example :
 ```
-<script src="Resolution.js"></script>
+<script src="Resolution - 1.0.0.min.js"></script>
 ```
 
 ## Initializing
