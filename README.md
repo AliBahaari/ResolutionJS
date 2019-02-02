@@ -1,5 +1,7 @@
 # ResolutionJS
 
+![JavaScript Badge](https://alibahaari.github.io/Badge/JavaScript.png)
+
 ***ResolutionJS*** will not show websites in a specified resolution. It just uses *JavaScript*.
 
 ## Add Project
