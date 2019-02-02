@@ -1,14 +1,17 @@
 # ResolutionJS
-Sometimes you don't want to show your website to clients in a specified resolutions. **ResolutionJS** is here to make it simpler than you think, It has been written with *JavaScript* and doesn't use any library or etc.
+
+***ResolutionJS*** will not show websites in a specified resolution. It just uses *JavaScript*.
 
 ## Add Project
-Just link ResolutionJS to your project, For example :
+
+Just link SliderJS to your project :
 ```
 <script src="Resolution - 1.0.0.min.js"></script>
 ```
 
 ## Initializing
-Then, You should initialize properties, Just copy the code below and paste it after the code above.
+
+Then, you should initialize properties, just copy the code below and paste it after the code above.
 ```
 <script>
   Resolution({
@@ -23,7 +26,8 @@ Then, You should initialize properties, Just copy the code below and paste it af
   });
 </script>
 ```
-Note : All the properties above should be filled; `backGround`, `textColor`, `fontSize`, `fontFamily`, `displayMessage` should be ***String*** and `clientWidth`, `clientHeight` and `zIndex` should be ***Integer***.
+*Note :* All the properties above should be filled; `backGround`, `textColor`, `fontSize`, `fontFamily`, `displayMessage` should be ***String***; `clientWidth`, `clientHeight`, `zIndex` should be ***Integer***.
 
-## Babel
-In minified version that actually is being used for production, It uses **Babel** for ResolutionJS to feel free for using in old browsers.
+## Minified
+
+In the minified version, it uses Babel to feel free for using in old version browsers.
