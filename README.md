@@ -1,6 +1,6 @@
 # ResolutionJS
 
-***ResolutionJS*** will not show websites in a specified resolution. It just uses *JavaScript*.
+***ResolutionJS*** will not show a web page in a specified resolution. It just uses *JavaScript*.
 
 ## Add Project
 
